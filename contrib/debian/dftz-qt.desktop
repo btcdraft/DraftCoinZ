@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DFTz Core
+Comment=DFTz P2P Cryptocurrency
+Comment[de]=Verbinde mit dem DFTz peer-to-peer Netzwerk
+Comment[fr]=DFTz, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DFTz, eşten eşe kriptografik sanal para birimi
+Exec=dftz-qt %u
+Terminal=false
+Type=Application
+Icon=dftz128
+MimeType=x-scheme-handler/dftz;
+Categories=Office;Finance;

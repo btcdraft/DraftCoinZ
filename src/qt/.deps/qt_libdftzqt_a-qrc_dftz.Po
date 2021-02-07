@@ -1,0 +1,3 @@
+qt/qt_libdftzqt_a-qrc_dftz.o: qt/qrc_dftz.cpp /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

@@ -1,0 +1,6 @@
+usr/local/bin/dftz-qt usr/bin
+share/pixmaps/dftz32.xpm usr/share/pixmaps
+share/pixmaps/dftz16.xpm usr/share/pixmaps
+share/pixmaps/dftz128.png usr/share/pixmaps
+debian/dftz-qt.desktop usr/share/applications
+debian/dftz-qt.protocol usr/share/kde4/services/

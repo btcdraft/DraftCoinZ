@@ -1,0 +1,11 @@
+prefix=/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: DFTz Core consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: 0.15.0
+Libs: -L${libdir} -ldftzconsensus
+Cflags: -I${includedir}
+Requires.private: libcrypto

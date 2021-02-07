@@ -1,0 +1,2435 @@
+qt/qt_libdftzqt_a-moc_receivecoinsdialog.o: qt/moc_receivecoinsdialog.cpp \
+ /usr/include/stdc-predef.h qt/receivecoinsdialog.h qt/guiutil.h amount.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
+ /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h fs.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/5/string \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/cpu_defines.h \
+ /usr/include/c++/5/bits/stringfwd.h /usr/include/c++/5/bits/memoryfwd.h \
+ /usr/include/c++/5/bits/char_traits.h \
+ /usr/include/c++/5/bits/stl_algobase.h \
+ /usr/include/c++/5/bits/functexcept.h \
+ /usr/include/c++/5/bits/exception_defines.h \
+ /usr/include/c++/5/bits/cpp_type_traits.h \
+ /usr/include/c++/5/ext/type_traits.h \
+ /usr/include/c++/5/ext/numeric_traits.h \
+ /usr/include/c++/5/bits/stl_pair.h /usr/include/c++/5/bits/move.h \
+ /usr/include/c++/5/bits/concept_check.h /usr/include/c++/5/type_traits \
+ /usr/include/c++/5/bits/stl_iterator_base_types.h \
+ /usr/include/c++/5/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/5/debug/debug.h /usr/include/c++/5/bits/stl_iterator.h \
+ /usr/include/c++/5/bits/ptr_traits.h \
+ /usr/include/c++/5/bits/predefined_ops.h \
+ /usr/include/c++/5/bits/postypes.h /usr/include/c++/5/cwchar \
+ /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/wchar2.h \
+ /usr/include/c++/5/cstdint /usr/include/c++/5/bits/allocator.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++allocator.h \
+ /usr/include/c++/5/ext/new_allocator.h /usr/include/c++/5/new \
+ /usr/include/c++/5/exception \
+ /usr/include/c++/5/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/5/bits/exception_ptr.h \
+ /usr/include/c++/5/bits/nested_exception.h \
+ /usr/include/c++/5/bits/localefwd.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++locale.h \
+ /usr/include/c++/5/clocale /usr/include/locale.h \
+ /usr/include/x86_64-linux-gnu/bits/locale.h /usr/include/c++/5/iosfwd \
+ /usr/include/c++/5/cctype /usr/include/ctype.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
+ /usr/include/c++/5/bits/ostream_insert.h \
+ /usr/include/c++/5/bits/cxxabi_forced.h \
+ /usr/include/c++/5/bits/stl_function.h \
+ /usr/include/c++/5/backward/binders.h \
+ /usr/include/c++/5/bits/range_access.h \
+ /usr/include/c++/5/initializer_list \
+ /usr/include/c++/5/bits/basic_string.h \
+ /usr/include/c++/5/ext/atomicity.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/gthr.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/bits/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/time.h \
+ /usr/include/x86_64-linux-gnu/bits/timex.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/atomic_word.h \
+ /usr/include/c++/5/ext/alloc_traits.h \
+ /usr/include/c++/5/bits/alloc_traits.h \
+ /usr/include/c++/5/ext/string_conversions.h /usr/include/c++/5/cstdlib \
+ /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/select2.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h /usr/include/c++/5/cstdio \
+ /usr/include/c++/5/cerrno /usr/include/errno.h \
+ /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+ /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+ /usr/include/c++/5/bits/functional_hash.h \
+ /usr/include/c++/5/bits/hash_bytes.h \
+ /usr/include/c++/5/bits/basic_string.tcc \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/user.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_compiler_config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/compiler/gcc.hpp \
+ /usr/include/c++/5/cstddef \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_stdlib_config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/stdlib/libstdcpp3.hpp \
+ /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /usr/include/x86_64-linux-gnu/bits/environments.h \
+ /usr/include/x86_64-linux-gnu/bits/confname.h /usr/include/getopt.h \
+ /usr/include/x86_64-linux-gnu/bits/unistd.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_platform_config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/platform/linux.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/posix_features.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/suffix.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/api_config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/workaround.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/auto_link.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/path.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/path_traits.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/utility/enable_if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/enable_if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_array.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/integral_constant.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/decay.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_function.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_lvalue_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_rvalue_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/version.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/is_function_ptr_helper.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_bounds.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_extent.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_pointer.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_cv.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/error_code.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/mingw.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/version_number.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/make.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/test.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_desktop.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/windows.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_store.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_phone.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_runtime.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/cstdint.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/assert.hpp \
+ /usr/include/assert.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/noncopyable.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/noncopyable.hpp \
+ /usr/include/c++/5/ostream /usr/include/c++/5/ios \
+ /usr/include/c++/5/bits/ios_base.h \
+ /usr/include/c++/5/bits/locale_classes.h \
+ /usr/include/c++/5/bits/locale_classes.tcc \
+ /usr/include/c++/5/system_error \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/error_constants.h \
+ /usr/include/c++/5/stdexcept /usr/include/c++/5/streambuf \
+ /usr/include/c++/5/bits/streambuf.tcc \
+ /usr/include/c++/5/bits/basic_ios.h \
+ /usr/include/c++/5/bits/locale_facets.h /usr/include/c++/5/cwctype \
+ /usr/include/wctype.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/ctype_base.h \
+ /usr/include/c++/5/bits/streambuf_iterator.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/ctype_inline.h \
+ /usr/include/c++/5/bits/locale_facets.tcc \
+ /usr/include/c++/5/bits/basic_ios.tcc \
+ /usr/include/c++/5/bits/ostream.tcc /usr/include/c++/5/functional \
+ /usr/include/c++/5/typeinfo /usr/include/c++/5/tuple \
+ /usr/include/c++/5/utility /usr/include/c++/5/bits/stl_relops.h \
+ /usr/include/c++/5/array /usr/include/c++/5/bits/uses_allocator.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/cerrno.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_prefix.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_suffix.hpp \
+ /usr/include/c++/5/vector /usr/include/c++/5/bits/stl_construct.h \
+ /usr/include/c++/5/bits/stl_uninitialized.h \
+ /usr/include/c++/5/bits/stl_vector.h \
+ /usr/include/c++/5/bits/stl_bvector.h /usr/include/c++/5/bits/vector.tcc \
+ /usr/include/c++/5/list /usr/include/c++/5/bits/stl_list.h \
+ /usr/include/c++/5/bits/list.tcc /usr/include/c++/5/iterator \
+ /usr/include/c++/5/istream /usr/include/c++/5/bits/istream.tcc \
+ /usr/include/c++/5/bits/stream_iterator.h /usr/include/c++/5/locale \
+ /usr/include/c++/5/bits/locale_facets_nonio.h /usr/include/c++/5/ctime \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/time_members.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/5/bits/codecvt.h \
+ /usr/include/c++/5/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/5/bits/locale_conv.h \
+ /usr/include/c++/5/bits/stringfwd.h /usr/include/c++/5/bits/allocator.h \
+ /usr/include/c++/5/bits/codecvt.h /usr/include/c++/5/bits/unique_ptr.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/system_error.hpp \
+ /usr/include/c++/5/cassert \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_facade.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/interoperable.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bool.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bool_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/adl_barrier.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/adl.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/msvc.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/intel.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/gcc.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/workaround.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/integral_c_tag.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/static_constant.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/or.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/use_preprocessed.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/nested_type_wknd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na_spec.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/lambda_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/void_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/ctps.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/lambda.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/ttp.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/int.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/int_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/nttp_decl.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/nttp.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/integral_wrapper.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/static_cast.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/cat.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/config/config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/lambda_arity_param.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/template_arity_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/arity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/dtp.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/params.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/preprocessor.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/comma_if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/punctuation/comma_if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/iif.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/bool.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/empty.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/punctuation/comma.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repeat.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/repeat.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/debug/error.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/detail/auto_rec.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/eat.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/inc.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/inc.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/enum.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/def_params_tail.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/limits/arity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/and.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/bitand.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/identity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/identity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/empty.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/add.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/dec.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/while.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/fold_left.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/detail/fold_left.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/expr_iif.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/adt.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/detail/is_binary.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/detail/check.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/compl.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/fold_right.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/detail/fold_right.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/reverse.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/detail/while.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/elem.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/expand.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/overload.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/variadic/size.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/rem.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/detail/is_single_return.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/variadic/elem.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/sub.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/eti.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/overload_resolution.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/lambda_support.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/include_preprocessed.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/compiler.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/stringize.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/or.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_convertible.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/intrinsics.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/yes_no_type.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_arithmetic.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_integral.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_floating_point.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_void.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_abstract.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_lvalue_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_rvalue_reference.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/declval.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/config_def.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/config_undef.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_traits.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/iterator.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_categories.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/eval_if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/value_wknd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/integral.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/identity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/placeholders.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/arg.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/arg_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na_assert.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/assert.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/not.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/yes_no.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/arrays.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/gpu.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/pp_counter.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/arity_spec.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/arg_typedef.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/arg.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/static_assert.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/facade_iterator_category.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/and.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/and.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_same.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_const.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/indirect_traits.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_pointer.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_class.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_volatile.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_member_function_pointer.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_member_pointer.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_pointer.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/enable_if.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/utility/addressof.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/addressof.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_const.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_const.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_pod.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_scalar.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_enum.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/always.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/default_params.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/apply.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/apply_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/apply_wrap.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/has_apply.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/has_xxx.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/type_wrapper.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/has_xxx.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/msvc_typename.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/array/elem.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/array/data.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/array/size.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/enum_params.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/enum_trailing_params.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/has_apply.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/msvc_never_true.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/lambda.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bind.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bind_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/bind.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/next.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/next_prior.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/common_name_wknd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/protect.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/bind.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/full_lambda.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/quote.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/void.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/has_type.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/bcc.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/quote.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/template_arity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/apply.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/shared_ptr.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/shared_ptr.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/no_tr1/memory.hpp \
+ /usr/include/c++/5/memory /usr/include/c++/5/bits/stl_tempbuf.h \
+ /usr/include/c++/5/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/5/ext/concurrence.h \
+ /usr/include/c++/5/bits/unique_ptr.h \
+ /usr/include/c++/5/bits/shared_ptr.h \
+ /usr/include/c++/5/bits/shared_ptr_base.h \
+ /usr/include/c++/5/bits/allocated_ptr.h \
+ /usr/include/c++/5/ext/aligned_buffer.h \
+ /usr/include/c++/5/bits/shared_ptr_atomic.h \
+ /usr/include/c++/5/bits/atomic_base.h \
+ /usr/include/c++/5/backward/auto_ptr.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/checked_delete.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/checked_delete.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/throw_exception.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/exception/exception.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/current_function.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/shared_count.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/bad_weak_ptr.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_base.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_has_sync.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_base_std_atomic.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/sp_typeinfo.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/typeinfo.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/demangle.hpp \
+ /usr/include/c++/5/cxxabi.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/cxxabi_tweaks.h \
+ /usr/include/c++/5/atomic \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_impl.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_convertible.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_nullptr_t.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_noexcept.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/spinlock_pool.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/spinlock.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/spinlock_std_atomic.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/yield_k.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language/stdc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language/stdcpp.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language/objc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/alpha.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/arm.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/blackfin.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/convex.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/ia64.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/m68k.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/mips.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/parisc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/ppc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/pyramid.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/rs6k.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/sparc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/superh.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/sys370.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/sys390.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/x86.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/x86/32.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/x86/64.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/z.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/borland.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/clang.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/comeau.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/compaq.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/diab.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/digitalmars.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/dignus.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/edg.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/ekopath.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/gcc_xml.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/gcc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/comp_detected.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/greenhills.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/hp_acc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/iar.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/ibm.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/intel.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/kai.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/llvm.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/metaware.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/metrowerks.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/microtec.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/mpw.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/palm.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/pgi.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/sgi_mipspro.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/sunpro.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/tendra.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/visualc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/watcom.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/_prefix.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/_cassert.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/gnu.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/uc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/vms.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/zos.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/_prefix.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/_exception.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/cxx.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/dinkumware.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/libcomo.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/modena.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/msl.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/roguewave.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/sgi.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/stdcpp3.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/stlport.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/vacpp.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/aix.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/amigaos.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/android.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/beos.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/macos.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/ios.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/bsdi.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/dragonfly.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/free.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/open.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/net.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/cygwin.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/haiku.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/hpux.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/irix.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/linux.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/os_detected.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/os400.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/qnxnto.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/solaris.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/unix.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/vms.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/other.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/other/endian.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86/versions.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86_amd.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86_amd/versions.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/arm.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/arm/versions.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/ppc.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/ppc/versions.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/version.h \
+ /usr/include/c++/5/algorithm /usr/include/c++/5/bits/stl_algo.h \
+ /usr/include/c++/5/bits/algorithmfwd.h \
+ /usr/include/c++/5/bits/stl_heap.h /usr/include/c++/5/random \
+ /usr/include/c++/5/cmath /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+ /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+ /usr/include/x86_64-linux-gnu/bits/inf.h \
+ /usr/include/x86_64-linux-gnu/bits/nan.h \
+ /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h \
+ /usr/include/c++/5/limits /usr/include/c++/5/bits/random.h \
+ /usr/include/c++/5/bits/uniform_int_dist.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/opt_random.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/x86intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/ia32intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mm_malloc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/pmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/ammintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/popcntintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/wmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/immintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avxintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx2intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512fintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512erintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512pfintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512cdintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512bwintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512dqintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlbwintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vldqintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmaintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmavlintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmiintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmivlintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/shaintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/lzcntintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/bmiintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/bmi2intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/fmaintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/f16cintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/rtmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xtestintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mm3dnow.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/prfchwintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/fma4intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xopintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/lwpintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/tbmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/rdseedintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/fxsrintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveoptintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/adxintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/clwbintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/pcommitintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/clflushoptintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsavesintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsavecintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mwaitxintrin.h \
+ /usr/include/c++/5/bits/random.tcc /usr/include/c++/5/numeric \
+ /usr/include/c++/5/bits/stl_numeric.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/operator_bool.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io/detail/quoted_manip.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io/ios_state.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash/hash_fwd.hpp \
+ /usr/include/c++/5/cstring /usr/include/string.h \
+ /usr/include/x86_64-linux-gnu/bits/string3.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/operations.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/scoped_enum_emulation.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/scoped_enum.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/bitmask.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/mutable_iterator.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/config.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/range_fwd.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/detail/extract_optional_type.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/detail/msvc_has_iterator_workaround.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/const_iterator.hpp \
+ /usr/include/c++/5/stack /usr/include/c++/5/deque \
+ /usr/include/c++/5/bits/stl_deque.h /usr/include/c++/5/bits/deque.tcc \
+ /usr/include/c++/5/bits/stl_stack.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/convenience.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/string_file.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/fstream.hpp \
+ /usr/include/c++/5/fstream \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/5/bits/c++io.h \
+ /usr/include/c++/5/bits/fstream.tcc \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/detail/utf8_codecvt_facet.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/utf8_codecvt_facet.hpp \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QEvent \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qcoreevent.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qnamespace.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qglobal.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qconfig.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qfeatures.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsystemdetection.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qprocessordetection.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qcompilerdetection.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qtypeinfo.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qtypetraits.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qisenum.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsysinfo.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qlogging.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qflags.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qatomic.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qbasicatomic.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qatomic_cxx11.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qgenericatomic.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qglobalstatic.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qnumeric.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qversiontagging.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qbytearray.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qrefcount.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qarraydata.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobjectdefs.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QHeaderView \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qheaderview.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractitemview.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractscrollarea.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qframe.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qwidget.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qwindowdefs.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobject.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qstring.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qchar.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qlist.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qalgorithms.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qiterator.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qhashfunctions.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qpair.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qbytearraylist.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qstringlist.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qregexp.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qstringmatcher.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qscopedpointer.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qmetatype.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qvarlengtharray.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qcontainerfwd.h \
+ /usr/include/c++/5/map /usr/include/c++/5/bits/stl_tree.h \
+ /usr/include/c++/5/bits/stl_map.h /usr/include/c++/5/bits/stl_multimap.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobject_impl.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qmargins.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpaintdevice.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qrect.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsize.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qpoint.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpalette.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qcolor.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qrgb.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qrgba64.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qbrush.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qvector.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qmatrix.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpolygon.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qregion.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qdatastream.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qiodevice.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qline.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qtransform.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpainterpath.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qimage.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpixelformat.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpixmap.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsharedpointer.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qshareddata.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qhash.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsharedpointer_impl.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qfont.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qfontmetrics.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qfontinfo.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qsizepolicy.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qcursor.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qkeysequence.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qabstractitemmodel.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qvariant.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qmap.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qitemselectionmodel.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qset.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractitemdelegate.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qstyleoption.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractspinbox.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qvalidator.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qregularexpression.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qlocale.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qicon.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qslider.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractslider.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qstyle.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qtabbar.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qtabwidget.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qrubberband.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QMessageBox \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qmessagebox.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qdialog.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QObject \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qobject.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QProgressBar \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qprogressbar.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QString \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qstring.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QTableView \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qtableview.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QLabel \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qlabel.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QDialog \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qdialog.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QItemSelection \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qitemselectionmodel.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtGui/QKeyEvent \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtGui/qevent.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qcoreevent.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qurl.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qfile.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qfiledevice.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qvector2d.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qtouchdevice.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QMenu \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qmenu.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qaction.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qactiongroup.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QPoint \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qpoint.h \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QVariant \
+ /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qvariant.h
+
+/usr/include/stdc-predef.h:
+
+qt/receivecoinsdialog.h:
+
+qt/guiutil.h:
+
+amount.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+fs.h:
+
+/usr/include/stdio.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio2.h:
+
+/usr/include/c++/5/string:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/cpu_defines.h:
+
+/usr/include/c++/5/bits/stringfwd.h:
+
+/usr/include/c++/5/bits/memoryfwd.h:
+
+/usr/include/c++/5/bits/char_traits.h:
+
+/usr/include/c++/5/bits/stl_algobase.h:
+
+/usr/include/c++/5/bits/functexcept.h:
+
+/usr/include/c++/5/bits/exception_defines.h:
+
+/usr/include/c++/5/bits/cpp_type_traits.h:
+
+/usr/include/c++/5/ext/type_traits.h:
+
+/usr/include/c++/5/ext/numeric_traits.h:
+
+/usr/include/c++/5/bits/stl_pair.h:
+
+/usr/include/c++/5/bits/move.h:
+
+/usr/include/c++/5/bits/concept_check.h:
+
+/usr/include/c++/5/type_traits:
+
+/usr/include/c++/5/bits/stl_iterator_base_types.h:
+
+/usr/include/c++/5/bits/stl_iterator_base_funcs.h:
+
+/usr/include/c++/5/debug/debug.h:
+
+/usr/include/c++/5/bits/stl_iterator.h:
+
+/usr/include/c++/5/bits/ptr_traits.h:
+
+/usr/include/c++/5/bits/predefined_ops.h:
+
+/usr/include/c++/5/bits/postypes.h:
+
+/usr/include/c++/5/cwchar:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar2.h:
+
+/usr/include/c++/5/cstdint:
+
+/usr/include/c++/5/bits/allocator.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++allocator.h:
+
+/usr/include/c++/5/ext/new_allocator.h:
+
+/usr/include/c++/5/new:
+
+/usr/include/c++/5/exception:
+
+/usr/include/c++/5/bits/atomic_lockfree_defines.h:
+
+/usr/include/c++/5/bits/exception_ptr.h:
+
+/usr/include/c++/5/bits/nested_exception.h:
+
+/usr/include/c++/5/bits/localefwd.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++locale.h:
+
+/usr/include/c++/5/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/usr/include/c++/5/iosfwd:
+
+/usr/include/c++/5/cctype:
+
+/usr/include/ctype.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/c++/5/bits/ostream_insert.h:
+
+/usr/include/c++/5/bits/cxxabi_forced.h:
+
+/usr/include/c++/5/bits/stl_function.h:
+
+/usr/include/c++/5/backward/binders.h:
+
+/usr/include/c++/5/bits/range_access.h:
+
+/usr/include/c++/5/initializer_list:
+
+/usr/include/c++/5/bits/basic_string.h:
+
+/usr/include/c++/5/ext/atomicity.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/gthr.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/atomic_word.h:
+
+/usr/include/c++/5/ext/alloc_traits.h:
+
+/usr/include/c++/5/bits/alloc_traits.h:
+
+/usr/include/c++/5/ext/string_conversions.h:
+
+/usr/include/c++/5/cstdlib:
+
+/usr/include/stdlib.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/select2.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib.h:
+
+/usr/include/c++/5/cstdio:
+
+/usr/include/c++/5/cerrno:
+
+/usr/include/errno.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/include/c++/5/bits/functional_hash.h:
+
+/usr/include/c++/5/bits/hash_bytes.h:
+
+/usr/include/c++/5/bits/basic_string.tcc:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/user.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_compiler_config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/compiler/gcc.hpp:
+
+/usr/include/c++/5/cstddef:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_stdlib_config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/stdlib/libstdcpp3.hpp:
+
+/usr/include/unistd.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+
+/usr/include/x86_64-linux-gnu/bits/environments.h:
+
+/usr/include/x86_64-linux-gnu/bits/confname.h:
+
+/usr/include/getopt.h:
+
+/usr/include/x86_64-linux-gnu/bits/unistd.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_platform_config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/platform/linux.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/posix_features.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/suffix.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/api_config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/workaround.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/auto_link.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/path.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/path_traits.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/utility/enable_if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/enable_if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_array.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/integral_constant.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/decay.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_function.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_lvalue_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_rvalue_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/version.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/is_function_ptr_helper.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_bounds.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_extent.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_pointer.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_cv.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/error_code.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/mingw.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/version_number.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/make.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/test.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_desktop.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/windows.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_store.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_phone.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/platform/windows_runtime.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/cstdint.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/assert.hpp:
+
+/usr/include/assert.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/noncopyable.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/noncopyable.hpp:
+
+/usr/include/c++/5/ostream:
+
+/usr/include/c++/5/ios:
+
+/usr/include/c++/5/bits/ios_base.h:
+
+/usr/include/c++/5/bits/locale_classes.h:
+
+/usr/include/c++/5/bits/locale_classes.tcc:
+
+/usr/include/c++/5/system_error:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/error_constants.h:
+
+/usr/include/c++/5/stdexcept:
+
+/usr/include/c++/5/streambuf:
+
+/usr/include/c++/5/bits/streambuf.tcc:
+
+/usr/include/c++/5/bits/basic_ios.h:
+
+/usr/include/c++/5/bits/locale_facets.h:
+
+/usr/include/c++/5/cwctype:
+
+/usr/include/wctype.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/ctype_base.h:
+
+/usr/include/c++/5/bits/streambuf_iterator.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/ctype_inline.h:
+
+/usr/include/c++/5/bits/locale_facets.tcc:
+
+/usr/include/c++/5/bits/basic_ios.tcc:
+
+/usr/include/c++/5/bits/ostream.tcc:
+
+/usr/include/c++/5/functional:
+
+/usr/include/c++/5/typeinfo:
+
+/usr/include/c++/5/tuple:
+
+/usr/include/c++/5/utility:
+
+/usr/include/c++/5/bits/stl_relops.h:
+
+/usr/include/c++/5/array:
+
+/usr/include/c++/5/bits/uses_allocator.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/cerrno.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_prefix.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_suffix.hpp:
+
+/usr/include/c++/5/vector:
+
+/usr/include/c++/5/bits/stl_construct.h:
+
+/usr/include/c++/5/bits/stl_uninitialized.h:
+
+/usr/include/c++/5/bits/stl_vector.h:
+
+/usr/include/c++/5/bits/stl_bvector.h:
+
+/usr/include/c++/5/bits/vector.tcc:
+
+/usr/include/c++/5/list:
+
+/usr/include/c++/5/bits/stl_list.h:
+
+/usr/include/c++/5/bits/list.tcc:
+
+/usr/include/c++/5/iterator:
+
+/usr/include/c++/5/istream:
+
+/usr/include/c++/5/bits/istream.tcc:
+
+/usr/include/c++/5/bits/stream_iterator.h:
+
+/usr/include/c++/5/locale:
+
+/usr/include/c++/5/bits/locale_facets_nonio.h:
+
+/usr/include/c++/5/ctime:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/time_members.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/messages_members.h:
+
+/usr/include/libintl.h:
+
+/usr/include/c++/5/bits/codecvt.h:
+
+/usr/include/c++/5/bits/locale_facets_nonio.tcc:
+
+/usr/include/c++/5/bits/locale_conv.h:
+
+/usr/include/c++/5/bits/stringfwd.h:
+
+/usr/include/c++/5/bits/allocator.h:
+
+/usr/include/c++/5/bits/codecvt.h:
+
+/usr/include/c++/5/bits/unique_ptr.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/system_error.hpp:
+
+/usr/include/c++/5/cassert:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_facade.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/interoperable.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bool.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bool_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/adl_barrier.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/adl.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/msvc.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/intel.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/gcc.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/workaround.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/integral_c_tag.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/static_constant.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/or.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/use_preprocessed.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/nested_type_wknd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na_spec.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/lambda_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/void_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/ctps.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/lambda.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/ttp.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/int.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/int_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/nttp_decl.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/nttp.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/integral_wrapper.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/static_cast.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/cat.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/config/config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/lambda_arity_param.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/template_arity_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/arity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/dtp.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/params.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/preprocessor.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/comma_if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/punctuation/comma_if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/iif.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/bool.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/empty.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/punctuation/comma.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repeat.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/repeat.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/debug/error.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/detail/auto_rec.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/eat.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/inc.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/inc.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/enum.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/def_params_tail.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/limits/arity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/and.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/bitand.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/identity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/identity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/empty.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/add.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/dec.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/while.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/fold_left.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/detail/fold_left.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/expr_iif.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/adt.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/detail/is_binary.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/detail/check.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/logical/compl.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/fold_right.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/detail/fold_right.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/list/reverse.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/control/detail/while.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/elem.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/expand.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/facilities/overload.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/variadic/size.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/rem.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/tuple/detail/is_single_return.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/variadic/elem.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/arithmetic/sub.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/eti.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/overload_resolution.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/lambda_support.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/include_preprocessed.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/compiler.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/stringize.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/or.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_convertible.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/intrinsics.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/yes_no_type.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_arithmetic.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_integral.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_floating_point.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_void.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_abstract.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_lvalue_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_rvalue_reference.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/declval.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/config_def.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/config_undef.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_traits.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/iterator.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_categories.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/eval_if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/value_wknd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/integral.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/identity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/placeholders.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/arg.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/arg_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/na_assert.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/assert.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/not.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/yes_no.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/arrays.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/gpu.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/pp_counter.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/arity_spec.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/arg_typedef.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/arg.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/placeholders.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/static_assert.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/facade_iterator_category.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/and.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/and.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_same.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_const.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/indirect_traits.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_pointer.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_class.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_volatile.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_member_function_pointer.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/detail/is_mem_fun_pointer_impl.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_member_pointer.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_pointer.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/detail/enable_if.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/utility/addressof.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/addressof.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/add_const.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/remove_const.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_pod.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_scalar.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/is_enum.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/always.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessor/default_params.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/apply.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/apply_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/apply_wrap.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/has_apply.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/has_xxx.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/type_wrapper.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/has_xxx.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/msvc_typename.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/array/elem.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/array/data.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/array/size.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/enum_params.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/enum_trailing_params.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/has_apply.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/msvc_never_true.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/apply_wrap.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/lambda.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bind.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/bind_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/bind.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/bind_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/next.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/next_prior.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/common_name_wknd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/protect.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/bind.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/full_lambda.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/quote.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/void.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/has_type.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/config/bcc.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/quote.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/template_arity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/template_arity.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/full_lambda.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/aux_/preprocessed/gcc/apply.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/shared_ptr.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/shared_ptr.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/no_tr1/memory.hpp:
+
+/usr/include/c++/5/memory:
+
+/usr/include/c++/5/bits/stl_tempbuf.h:
+
+/usr/include/c++/5/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/5/ext/concurrence.h:
+
+/usr/include/c++/5/bits/unique_ptr.h:
+
+/usr/include/c++/5/bits/shared_ptr.h:
+
+/usr/include/c++/5/bits/shared_ptr_base.h:
+
+/usr/include/c++/5/bits/allocated_ptr.h:
+
+/usr/include/c++/5/ext/aligned_buffer.h:
+
+/usr/include/c++/5/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/5/bits/atomic_base.h:
+
+/usr/include/c++/5/backward/auto_ptr.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/checked_delete.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/checked_delete.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/throw_exception.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/exception/exception.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/current_function.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/shared_count.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/bad_weak_ptr.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_base.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_has_sync.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_base_std_atomic.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/sp_typeinfo.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/typeinfo.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/demangle.hpp:
+
+/usr/include/c++/5/cxxabi.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/cxxabi_tweaks.h:
+
+/usr/include/c++/5/atomic:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_impl.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_disable_deprecated.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_convertible.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_nullptr_t.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_noexcept.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/spinlock_pool.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/spinlock.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/spinlock_std_atomic.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/yield_k.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language/stdc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language/stdcpp.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/language/objc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/alpha.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/arm.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/blackfin.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/convex.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/ia64.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/m68k.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/mips.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/parisc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/ppc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/pyramid.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/rs6k.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/sparc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/superh.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/sys370.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/sys390.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/x86.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/x86/32.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/x86/64.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/architecture/z.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/borland.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/clang.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/comeau.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/compaq.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/diab.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/digitalmars.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/dignus.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/edg.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/ekopath.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/gcc_xml.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/gcc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/comp_detected.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/greenhills.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/hp_acc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/iar.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/ibm.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/intel.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/kai.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/llvm.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/metaware.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/metrowerks.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/microtec.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/mpw.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/palm.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/pgi.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/sgi_mipspro.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/sunpro.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/tendra.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/visualc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/compiler/watcom.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/_prefix.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/_cassert.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/gnu.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/uc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/vms.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/c/zos.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/_prefix.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/_exception.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/cxx.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/dinkumware.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/libcomo.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/modena.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/msl.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/roguewave.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/sgi.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/stdcpp3.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/stlport.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/library/std/vacpp.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/aix.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/amigaos.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/android.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/beos.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/macos.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/ios.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/bsdi.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/dragonfly.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/free.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/open.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/bsd/net.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/cygwin.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/haiku.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/hpux.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/irix.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/linux.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/detail/os_detected.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/os400.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/qnxnto.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/solaris.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/unix.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/os/vms.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/other.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/other/endian.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86/versions.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86_amd.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/x86_amd/versions.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/arm.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/arm/versions.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/ppc.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/ppc/versions.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/version.h:
+
+/usr/include/c++/5/algorithm:
+
+/usr/include/c++/5/bits/stl_algo.h:
+
+/usr/include/c++/5/bits/algorithmfwd.h:
+
+/usr/include/c++/5/bits/stl_heap.h:
+
+/usr/include/c++/5/random:
+
+/usr/include/c++/5/cmath:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_val.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_valf.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_vall.h:
+
+/usr/include/x86_64-linux-gnu/bits/inf.h:
+
+/usr/include/x86_64-linux-gnu/bits/nan.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathdef.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathinline.h:
+
+/usr/include/c++/5/limits:
+
+/usr/include/c++/5/bits/random.h:
+
+/usr/include/c++/5/bits/uniform_int_dist.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/opt_random.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/x86intrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/ia32intrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xmmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mm_malloc.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/pmmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/ammintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/popcntintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/wmmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/immintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avxintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx2intrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512fintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512erintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512pfintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512cdintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512bwintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512dqintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlbwintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vldqintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmaintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmavlintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmiintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmivlintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/shaintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/lzcntintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/bmiintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/bmi2intrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/fmaintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/f16cintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/rtmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xtestintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mm3dnow.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/prfchwintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/fma4intrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xopintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/lwpintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/tbmintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/rdseedintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/fxsrintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveoptintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/adxintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/clwbintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/pcommitintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/clflushoptintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsavesintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsavecintrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mwaitxintrin.h:
+
+/usr/include/c++/5/bits/random.tcc:
+
+/usr/include/c++/5/numeric:
+
+/usr/include/c++/5/bits/stl_numeric.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/operator_bool.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io/detail/quoted_manip.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io/ios_state.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash/hash_fwd.hpp:
+
+/usr/include/c++/5/cstring:
+
+/usr/include/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string3.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/operations.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/scoped_enum_emulation.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/scoped_enum.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/bitmask.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/mutable_iterator.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/config.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/range_fwd.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/detail/extract_optional_type.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/detail/msvc_has_iterator_workaround.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/const_iterator.hpp:
+
+/usr/include/c++/5/stack:
+
+/usr/include/c++/5/deque:
+
+/usr/include/c++/5/bits/stl_deque.h:
+
+/usr/include/c++/5/bits/deque.tcc:
+
+/usr/include/c++/5/bits/stl_stack.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/convenience.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/string_file.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/fstream.hpp:
+
+/usr/include/c++/5/fstream:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/basic_file.h:
+
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++io.h:
+
+/usr/include/c++/5/bits/fstream.tcc:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/detail/utf8_codecvt_facet.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/utf8_codecvt_facet.hpp:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QEvent:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qcoreevent.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qnamespace.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qglobal.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qconfig.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qfeatures.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsystemdetection.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qprocessordetection.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qcompilerdetection.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qtypeinfo.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qtypetraits.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qisenum.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsysinfo.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qlogging.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qflags.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qatomic.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qbasicatomic.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qatomic_cxx11.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qgenericatomic.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qglobalstatic.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qnumeric.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qversiontagging.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qbytearray.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qrefcount.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qarraydata.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobjectdefs.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobjectdefs_impl.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QHeaderView:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qheaderview.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractitemview.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractscrollarea.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qframe.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qwidget.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qwindowdefs.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobject.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qstring.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qchar.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qlist.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qalgorithms.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qiterator.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qhashfunctions.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qpair.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
+
+/usr/include/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/include/linux/limits.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qbytearraylist.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qstringlist.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qregexp.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qstringmatcher.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qscopedpointer.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qmetatype.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qvarlengtharray.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qcontainerfwd.h:
+
+/usr/include/c++/5/map:
+
+/usr/include/c++/5/bits/stl_tree.h:
+
+/usr/include/c++/5/bits/stl_map.h:
+
+/usr/include/c++/5/bits/stl_multimap.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qobject_impl.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qmargins.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpaintdevice.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qrect.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsize.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qpoint.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpalette.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qcolor.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qrgb.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qrgba64.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qbrush.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qvector.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qmatrix.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpolygon.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qregion.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qdatastream.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qiodevice.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qline.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qtransform.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpainterpath.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qimage.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpixelformat.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qpixmap.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsharedpointer.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qshareddata.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qhash.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qsharedpointer_impl.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qfont.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qfontmetrics.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qfontinfo.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qsizepolicy.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qcursor.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qkeysequence.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qabstractitemmodel.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qvariant.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qmap.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qitemselectionmodel.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qset.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractitemdelegate.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qstyleoption.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractspinbox.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qvalidator.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qregularexpression.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qlocale.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qicon.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qslider.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qabstractslider.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qstyle.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qtabbar.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qtabwidget.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qrubberband.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QMessageBox:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qmessagebox.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qdialog.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QObject:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qobject.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QProgressBar:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qprogressbar.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QString:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qstring.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QTableView:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qtableview.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QLabel:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qlabel.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QDialog:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qdialog.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QItemSelection:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qitemselectionmodel.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtGui/QKeyEvent:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtGui/qevent.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qcoreevent.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qurl.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qfile.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtCore/qfiledevice.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qvector2d.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtGui/qtouchdevice.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/QMenu:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtWidgets/qmenu.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qaction.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/QtWidgets/qactiongroup.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QPoint:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qpoint.h:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/QVariant:
+
+/home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/include/QtCore/qvariant.h:
