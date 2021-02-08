@@ -1,99 +1,129 @@
 llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /usr/include/stdc-predef.h llmq/quorums_signing.h llmq/quorums.h \
  evo/evodb.h dbwrapper.h clientversion.h config/dftz-config.h \
- /usr/include/c++/5/string \
- /usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h \
+ /usr/include/c++/7/string \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/cpu_defines.h \
- /usr/include/c++/5/bits/stringfwd.h /usr/include/c++/5/bits/memoryfwd.h \
- /usr/include/c++/5/bits/char_traits.h \
- /usr/include/c++/5/bits/stl_algobase.h \
- /usr/include/c++/5/bits/functexcept.h \
- /usr/include/c++/5/bits/exception_defines.h \
- /usr/include/c++/5/bits/cpp_type_traits.h \
- /usr/include/c++/5/ext/type_traits.h \
- /usr/include/c++/5/ext/numeric_traits.h \
- /usr/include/c++/5/bits/stl_pair.h /usr/include/c++/5/bits/move.h \
- /usr/include/c++/5/bits/concept_check.h /usr/include/c++/5/type_traits \
- /usr/include/c++/5/bits/stl_iterator_base_types.h \
- /usr/include/c++/5/bits/stl_iterator_base_funcs.h \
- /usr/include/c++/5/debug/debug.h /usr/include/c++/5/bits/stl_iterator.h \
- /usr/include/c++/5/bits/ptr_traits.h \
- /usr/include/c++/5/bits/predefined_ops.h \
- /usr/include/c++/5/bits/postypes.h /usr/include/c++/5/cwchar \
- /usr/include/wchar.h /usr/include/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/cpu_defines.h \
+ /usr/include/c++/7/bits/stringfwd.h /usr/include/c++/7/bits/memoryfwd.h \
+ /usr/include/c++/7/bits/char_traits.h \
+ /usr/include/c++/7/bits/stl_algobase.h \
+ /usr/include/c++/7/bits/functexcept.h \
+ /usr/include/c++/7/bits/exception_defines.h \
+ /usr/include/c++/7/bits/cpp_type_traits.h \
+ /usr/include/c++/7/ext/type_traits.h \
+ /usr/include/c++/7/ext/numeric_traits.h \
+ /usr/include/c++/7/bits/stl_pair.h /usr/include/c++/7/bits/move.h \
+ /usr/include/c++/7/bits/concept_check.h /usr/include/c++/7/type_traits \
+ /usr/include/c++/7/bits/stl_iterator_base_types.h \
+ /usr/include/c++/7/bits/stl_iterator_base_funcs.h \
+ /usr/include/c++/7/debug/assertions.h \
+ /usr/include/c++/7/bits/stl_iterator.h \
+ /usr/include/c++/7/bits/ptr_traits.h /usr/include/c++/7/debug/debug.h \
+ /usr/include/c++/7/bits/predefined_ops.h \
+ /usr/include/c++/7/bits/postypes.h /usr/include/c++/7/cwchar \
+ /usr/include/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h /usr/include/xlocale.h \
- /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/5/cstdint \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h /usr/include/stdint.h \
- /usr/include/c++/5/bits/allocator.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/c++allocator.h \
- /usr/include/c++/5/ext/new_allocator.h /usr/include/c++/5/new \
- /usr/include/c++/5/exception \
- /usr/include/c++/5/bits/atomic_lockfree_defines.h \
- /usr/include/c++/5/bits/exception_ptr.h \
- /usr/include/c++/5/bits/nested_exception.h \
- /usr/include/c++/5/bits/localefwd.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/c++locale.h \
- /usr/include/c++/5/clocale /usr/include/locale.h \
- /usr/include/x86_64-linux-gnu/bits/locale.h /usr/include/c++/5/iosfwd \
- /usr/include/c++/5/cctype /usr/include/ctype.h \
+ /usr/include/x86_64-linux-gnu/bits/types/wint_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar2.h /usr/include/c++/7/cstdint \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/types.h \
- /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/endian.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /usr/include/c++/7/bits/allocator.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/c++allocator.h \
+ /usr/include/c++/7/ext/new_allocator.h /usr/include/c++/7/new \
+ /usr/include/c++/7/exception /usr/include/c++/7/bits/exception.h \
+ /usr/include/c++/7/bits/exception_ptr.h \
+ /usr/include/c++/7/bits/cxxabi_init_exception.h \
+ /usr/include/c++/7/typeinfo /usr/include/c++/7/bits/hash_bytes.h \
+ /usr/include/c++/7/bits/nested_exception.h \
+ /usr/include/c++/7/bits/localefwd.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/c++locale.h \
+ /usr/include/c++/7/clocale /usr/include/locale.h \
+ /usr/include/x86_64-linux-gnu/bits/locale.h /usr/include/c++/7/iosfwd \
+ /usr/include/c++/7/cctype /usr/include/ctype.h /usr/include/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endian.h \
  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
  /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
- /usr/include/c++/5/bits/ostream_insert.h \
- /usr/include/c++/5/bits/cxxabi_forced.h \
- /usr/include/c++/5/bits/stl_function.h \
- /usr/include/c++/5/backward/binders.h \
- /usr/include/c++/5/bits/range_access.h \
- /usr/include/c++/5/initializer_list \
- /usr/include/c++/5/bits/basic_string.h \
- /usr/include/c++/5/ext/atomicity.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/gthr.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h \
- /usr/include/pthread.h /usr/include/sched.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+ /usr/include/c++/7/bits/ostream_insert.h \
+ /usr/include/c++/7/bits/cxxabi_forced.h \
+ /usr/include/c++/7/bits/stl_function.h \
+ /usr/include/c++/7/backward/binders.h \
+ /usr/include/c++/7/bits/range_access.h \
+ /usr/include/c++/7/initializer_list \
+ /usr/include/c++/7/bits/basic_string.h \
+ /usr/include/c++/7/ext/atomicity.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/gthr.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/gthr-default.h \
+ /usr/include/pthread.h /usr/include/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
  /usr/include/x86_64-linux-gnu/bits/sched.h \
+ /usr/include/x86_64-linux-gnu/bits/cpu-set.h /usr/include/time.h \
  /usr/include/x86_64-linux-gnu/bits/time.h \
  /usr/include/x86_64-linux-gnu/bits/timex.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/atomic_word.h \
- /usr/include/c++/5/ext/alloc_traits.h \
- /usr/include/c++/5/bits/alloc_traits.h \
- /usr/include/c++/5/ext/string_conversions.h /usr/include/c++/5/cstdlib \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/atomic_word.h \
+ /usr/include/c++/7/ext/alloc_traits.h \
+ /usr/include/c++/7/bits/alloc_traits.h \
+ /usr/include/c++/7/ext/string_conversions.h /usr/include/c++/7/cstdlib \
  /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
  /usr/include/x86_64-linux-gnu/sys/types.h \
  /usr/include/x86_64-linux-gnu/sys/select.h \
  /usr/include/x86_64-linux-gnu/bits/select.h \
- /usr/include/x86_64-linux-gnu/bits/sigset.h \
+ /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
  /usr/include/x86_64-linux-gnu/bits/select2.h \
- /usr/include/x86_64-linux-gnu/sys/sysmacros.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+ /usr/include/x86_64-linux-gnu/bits/sysmacros.h /usr/include/alloca.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
- /usr/include/x86_64-linux-gnu/bits/stdlib.h /usr/include/c++/5/cstdio \
- /usr/include/libio.h /usr/include/_G_config.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib.h \
+ /usr/include/c++/7/bits/std_abs.h /usr/include/c++/7/cstdio \
+ /usr/include/stdio.h /usr/include/x86_64-linux-gnu/bits/libio.h \
+ /usr/include/x86_64-linux-gnu/bits/_G_config.h \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
  /usr/include/x86_64-linux-gnu/bits/stdio.h \
- /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/5/cerrno \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h /usr/include/c++/7/cerrno \
  /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- /usr/include/c++/5/bits/functional_hash.h \
- /usr/include/c++/5/bits/hash_bytes.h \
- /usr/include/c++/5/bits/basic_string.tcc /usr/include/c++/5/vector \
- /usr/include/c++/5/bits/stl_construct.h \
- /usr/include/c++/5/bits/stl_uninitialized.h \
- /usr/include/c++/5/bits/stl_vector.h \
- /usr/include/c++/5/bits/stl_bvector.h /usr/include/c++/5/bits/vector.tcc \
+ /usr/include/c++/7/bits/functional_hash.h \
+ /usr/include/c++/7/bits/basic_string.tcc /usr/include/c++/7/vector \
+ /usr/include/c++/7/bits/stl_construct.h \
+ /usr/include/c++/7/bits/stl_uninitialized.h \
+ /usr/include/c++/7/bits/stl_vector.h \
+ /usr/include/c++/7/bits/stl_bvector.h /usr/include/c++/7/bits/vector.tcc \
  fs.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/config.hpp \
@@ -101,12 +131,14 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/user.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_compiler_config.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/compiler/gcc.hpp \
- /usr/include/c++/5/cstddef \
+ /usr/include/c++/7/cstddef \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_stdlib_config.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/stdlib/libstdcpp3.hpp \
  /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
- /usr/include/x86_64-linux-gnu/bits/confname.h /usr/include/getopt.h \
+ /usr/include/x86_64-linux-gnu/bits/confname.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
  /usr/include/x86_64-linux-gnu/bits/unistd.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_platform_config.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/platform/linux.hpp \
@@ -151,43 +183,47 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /usr/include/assert.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/noncopyable.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/noncopyable.hpp \
- /usr/include/c++/5/ostream /usr/include/c++/5/ios \
- /usr/include/c++/5/bits/ios_base.h \
- /usr/include/c++/5/bits/locale_classes.h \
- /usr/include/c++/5/bits/locale_classes.tcc \
- /usr/include/c++/5/system_error \
- /usr/include/x86_64-linux-gnu/c++/5/bits/error_constants.h \
- /usr/include/c++/5/stdexcept /usr/include/c++/5/streambuf \
- /usr/include/c++/5/bits/streambuf.tcc \
- /usr/include/c++/5/bits/basic_ios.h \
- /usr/include/c++/5/bits/locale_facets.h /usr/include/c++/5/cwctype \
- /usr/include/wctype.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/ctype_base.h \
- /usr/include/c++/5/bits/streambuf_iterator.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/ctype_inline.h \
- /usr/include/c++/5/bits/locale_facets.tcc \
- /usr/include/c++/5/bits/basic_ios.tcc \
- /usr/include/c++/5/bits/ostream.tcc /usr/include/c++/5/functional \
- /usr/include/c++/5/typeinfo /usr/include/c++/5/tuple \
- /usr/include/c++/5/utility /usr/include/c++/5/bits/stl_relops.h \
- /usr/include/c++/5/array /usr/include/c++/5/bits/uses_allocator.h \
+ /usr/include/c++/7/ostream /usr/include/c++/7/ios \
+ /usr/include/c++/7/bits/ios_base.h \
+ /usr/include/c++/7/bits/locale_classes.h \
+ /usr/include/c++/7/bits/locale_classes.tcc \
+ /usr/include/c++/7/system_error \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/error_constants.h \
+ /usr/include/c++/7/stdexcept /usr/include/c++/7/streambuf \
+ /usr/include/c++/7/bits/streambuf.tcc \
+ /usr/include/c++/7/bits/basic_ios.h \
+ /usr/include/c++/7/bits/locale_facets.h /usr/include/c++/7/cwctype \
+ /usr/include/wctype.h /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/ctype_base.h \
+ /usr/include/c++/7/bits/streambuf_iterator.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/ctype_inline.h \
+ /usr/include/c++/7/bits/locale_facets.tcc \
+ /usr/include/c++/7/bits/basic_ios.tcc \
+ /usr/include/c++/7/bits/ostream.tcc /usr/include/c++/7/functional \
+ /usr/include/c++/7/tuple /usr/include/c++/7/utility \
+ /usr/include/c++/7/bits/stl_relops.h /usr/include/c++/7/array \
+ /usr/include/c++/7/bits/uses_allocator.h \
+ /usr/include/c++/7/bits/invoke.h /usr/include/c++/7/bits/std_function.h \
+ /usr/include/c++/7/bits/refwrap.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/cerrno.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_prefix.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_suffix.hpp \
- /usr/include/c++/5/list /usr/include/c++/5/bits/stl_list.h \
- /usr/include/c++/5/bits/list.tcc /usr/include/c++/5/iterator \
- /usr/include/c++/5/istream /usr/include/c++/5/bits/istream.tcc \
- /usr/include/c++/5/bits/stream_iterator.h /usr/include/c++/5/locale \
- /usr/include/c++/5/bits/locale_facets_nonio.h /usr/include/c++/5/ctime \
- /usr/include/x86_64-linux-gnu/c++/5/bits/time_members.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/messages_members.h \
- /usr/include/libintl.h /usr/include/c++/5/bits/codecvt.h \
- /usr/include/c++/5/bits/locale_facets_nonio.tcc \
- /usr/include/c++/5/bits/locale_conv.h \
- /usr/include/c++/5/bits/stringfwd.h /usr/include/c++/5/bits/allocator.h \
- /usr/include/c++/5/bits/codecvt.h /usr/include/c++/5/bits/unique_ptr.h \
+ /usr/include/c++/7/list /usr/include/c++/7/bits/stl_list.h \
+ /usr/include/c++/7/bits/allocated_ptr.h \
+ /usr/include/c++/7/ext/aligned_buffer.h /usr/include/c++/7/bits/list.tcc \
+ /usr/include/c++/7/iterator /usr/include/c++/7/istream \
+ /usr/include/c++/7/bits/istream.tcc \
+ /usr/include/c++/7/bits/stream_iterator.h /usr/include/c++/7/locale \
+ /usr/include/c++/7/bits/locale_facets_nonio.h /usr/include/c++/7/ctime \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/time_members.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/messages_members.h \
+ /usr/include/libintl.h /usr/include/c++/7/bits/codecvt.h \
+ /usr/include/c++/7/bits/locale_facets_nonio.tcc \
+ /usr/include/c++/7/bits/locale_conv.h \
+ /usr/include/c++/7/bits/stringfwd.h /usr/include/c++/7/bits/allocator.h \
+ /usr/include/c++/7/bits/codecvt.h /usr/include/c++/7/bits/unique_ptr.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/system_error.hpp \
- /usr/include/c++/5/cassert \
+ /usr/include/c++/7/cassert \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_facade.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/interoperable.hpp \
@@ -377,17 +413,16 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/shared_ptr.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/shared_ptr.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/no_tr1/memory.hpp \
- /usr/include/c++/5/memory /usr/include/c++/5/bits/stl_tempbuf.h \
- /usr/include/c++/5/bits/stl_raw_storage_iter.h \
- /usr/include/c++/5/ext/concurrence.h \
- /usr/include/c++/5/bits/unique_ptr.h \
- /usr/include/c++/5/bits/shared_ptr.h \
- /usr/include/c++/5/bits/shared_ptr_base.h \
- /usr/include/c++/5/bits/allocated_ptr.h \
- /usr/include/c++/5/ext/aligned_buffer.h \
- /usr/include/c++/5/bits/shared_ptr_atomic.h \
- /usr/include/c++/5/bits/atomic_base.h \
- /usr/include/c++/5/backward/auto_ptr.h \
+ /usr/include/c++/7/memory /usr/include/c++/7/bits/stl_tempbuf.h \
+ /usr/include/c++/7/bits/stl_raw_storage_iter.h \
+ /usr/include/c++/7/ext/concurrence.h \
+ /usr/include/c++/7/bits/unique_ptr.h \
+ /usr/include/c++/7/bits/shared_ptr.h \
+ /usr/include/c++/7/bits/shared_ptr_base.h \
+ /usr/include/c++/7/bits/shared_ptr_atomic.h \
+ /usr/include/c++/7/bits/atomic_base.h \
+ /usr/include/c++/7/bits/atomic_lockfree_defines.h \
+ /usr/include/c++/7/backward/auto_ptr.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/checked_delete.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/checked_delete.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/throw_exception.hpp \
@@ -401,9 +436,9 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/sp_typeinfo.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/typeinfo.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/demangle.hpp \
- /usr/include/c++/5/cxxabi.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/cxxabi_tweaks.h \
- /usr/include/c++/5/atomic \
+ /usr/include/c++/7/cxxabi.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/cxxabi_tweaks.h \
+ /usr/include/c++/7/atomic \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_impl.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_disable_deprecated.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_convertible.hpp \
@@ -527,86 +562,19 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/ppc.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/hardware/simd/ppc/versions.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/version.h \
- /usr/include/c++/5/algorithm /usr/include/c++/5/bits/stl_algo.h \
- /usr/include/c++/5/bits/algorithmfwd.h \
- /usr/include/c++/5/bits/stl_heap.h /usr/include/c++/5/random \
- /usr/include/c++/5/cmath /usr/include/math.h \
- /usr/include/x86_64-linux-gnu/bits/math-vector.h \
- /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
- /usr/include/x86_64-linux-gnu/bits/huge_val.h \
- /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
- /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
- /usr/include/x86_64-linux-gnu/bits/inf.h \
- /usr/include/x86_64-linux-gnu/bits/nan.h \
- /usr/include/x86_64-linux-gnu/bits/mathdef.h \
- /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
- /usr/include/x86_64-linux-gnu/bits/mathinline.h \
- /usr/include/c++/5/limits /usr/include/c++/5/bits/random.h \
- /usr/include/c++/5/bits/uniform_int_dist.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/opt_random.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/x86intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/ia32intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/mmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/mm_malloc.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/pmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/ammintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/popcntintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/wmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/immintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avxintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx2intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512fintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512erintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512pfintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512cdintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512bwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512dqintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlbwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vldqintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmaintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmavlintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmiintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmivlintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/shaintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/lzcntintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/bmiintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/bmi2intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/fmaintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/f16cintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/rtmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xtestintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/mm3dnow.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/prfchwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/fma4intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xopintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/lwpintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/tbmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/rdseedintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/fxsrintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveoptintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/adxintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/clwbintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/pcommitintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/clflushoptintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xsavesintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/xsavecintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include/mwaitxintrin.h \
- /usr/include/c++/5/bits/random.tcc /usr/include/c++/5/numeric \
- /usr/include/c++/5/bits/stl_numeric.h \
+ /usr/include/c++/7/algorithm /usr/include/c++/7/bits/stl_algo.h \
+ /usr/include/c++/7/bits/algorithmfwd.h \
+ /usr/include/c++/7/bits/stl_heap.h \
+ /usr/include/c++/7/bits/uniform_int_dist.h /usr/include/c++/7/limits \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/operator_bool.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io/detail/quoted_manip.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io/ios_state.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/io_fwd.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash_fwd.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash/hash_fwd.hpp \
- /usr/include/c++/5/cstring /usr/include/string.h \
- /usr/include/x86_64-linux-gnu/bits/string3.h \
+ /usr/include/c++/7/cstring /usr/include/string.h /usr/include/strings.h \
+ /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+ /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/operations.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/scoped_enum_emulation.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/scoped_enum.hpp \
@@ -617,38 +585,39 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/detail/extract_optional_type.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/detail/msvc_has_iterator_workaround.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/const_iterator.hpp \
- /usr/include/c++/5/stack /usr/include/c++/5/deque \
- /usr/include/c++/5/bits/stl_deque.h /usr/include/c++/5/bits/deque.tcc \
- /usr/include/c++/5/bits/stl_stack.h \
+ /usr/include/c++/7/stack /usr/include/c++/7/deque \
+ /usr/include/c++/7/bits/stl_deque.h /usr/include/c++/7/bits/deque.tcc \
+ /usr/include/c++/7/bits/stl_stack.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/convenience.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/string_file.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/fstream.hpp \
- /usr/include/c++/5/fstream \
- /usr/include/x86_64-linux-gnu/c++/5/bits/basic_file.h \
- /usr/include/x86_64-linux-gnu/c++/5/bits/c++io.h \
- /usr/include/c++/5/bits/fstream.tcc \
+ /usr/include/c++/7/fstream \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/basic_file.h \
+ /usr/include/x86_64-linux-gnu/c++/7/bits/c++io.h \
+ /usr/include/c++/7/bits/fstream.tcc \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/detail/utf8_codecvt_facet.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/utf8_codecvt_facet.hpp \
  serialize.h compat/endian.h config/dftz-config.h compat/byteswap.h \
- /usr/include/byteswap.h /usr/include/c++/5/map \
- /usr/include/c++/5/bits/stl_tree.h /usr/include/c++/5/bits/stl_map.h \
- /usr/include/c++/5/bits/stl_multimap.h /usr/include/c++/5/set \
- /usr/include/c++/5/bits/stl_set.h /usr/include/c++/5/bits/stl_multiset.h \
- /usr/include/c++/5/unordered_map /usr/include/c++/5/bits/hashtable.h \
- /usr/include/c++/5/bits/hashtable_policy.h \
- /usr/include/c++/5/bits/unordered_map.h /usr/include/c++/5/unordered_set \
- /usr/include/c++/5/bits/unordered_set.h prevector.h compat.h \
+ /usr/include/byteswap.h /usr/include/c++/7/map \
+ /usr/include/c++/7/bits/stl_tree.h /usr/include/c++/7/bits/stl_map.h \
+ /usr/include/c++/7/bits/stl_multimap.h /usr/include/c++/7/set \
+ /usr/include/c++/7/bits/stl_set.h /usr/include/c++/7/bits/stl_multiset.h \
+ /usr/include/c++/7/unordered_map /usr/include/c++/7/bits/hashtable.h \
+ /usr/include/c++/7/bits/hashtable_policy.h \
+ /usr/include/c++/7/bits/unordered_map.h /usr/include/c++/7/unordered_set \
+ /usr/include/c++/7/bits/unordered_set.h prevector.h \
+ /usr/include/c++/7/stdlib.h compat.h \
  /usr/include/x86_64-linux-gnu/sys/fcntl.h /usr/include/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h \
- /usr/include/x86_64-linux-gnu/bits/uio.h \
- /usr/include/x86_64-linux-gnu/bits/stat.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
+ /usr/include/linux/falloc.h /usr/include/x86_64-linux-gnu/bits/stat.h \
  /usr/include/x86_64-linux-gnu/bits/fcntl2.h \
  /usr/include/x86_64-linux-gnu/sys/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman.h \
  /usr/include/x86_64-linux-gnu/bits/mman-linux.h \
+ /usr/include/x86_64-linux-gnu/bits/mman-shared.h \
  /usr/include/x86_64-linux-gnu/sys/socket.h \
- /usr/include/x86_64-linux-gnu/sys/uio.h \
  /usr/include/x86_64-linux-gnu/bits/socket.h \
  /usr/include/x86_64-linux-gnu/bits/socket_type.h \
  /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
@@ -656,18 +625,22 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /usr/include/asm-generic/socket.h \
  /usr/include/x86_64-linux-gnu/asm/sockios.h \
  /usr/include/asm-generic/sockios.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
  /usr/include/x86_64-linux-gnu/bits/socket2.h /usr/include/net/if.h \
  /usr/include/netinet/in.h /usr/include/x86_64-linux-gnu/bits/in.h \
  /usr/include/netinet/tcp.h /usr/include/arpa/inet.h \
  /usr/include/ifaddrs.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
  /usr/include/x86_64-linux-gnu/bits/local_lim.h \
  /usr/include/linux/limits.h \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
- /usr/include/x86_64-linux-gnu/bits/xopen_lim.h /usr/include/netdb.h \
- /usr/include/rpc/netdb.h /usr/include/x86_64-linux-gnu/bits/siginfo.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/uio_lim.h /usr/include/netdb.h \
+ /usr/include/rpc/netdb.h \
+ /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h \
  /usr/include/x86_64-linux-gnu/bits/netdb.h streams.h \
  support/allocators/zeroafterfree.h support/cleanse.h util.h compat.h \
  sync.h threadsafety.h \
@@ -691,6 +664,16 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/posix_time/posix_time_config.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/limits.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/no_tr1/cmath.hpp \
+ /usr/include/c++/7/cmath /usr/include/math.h \
+ /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
+ /usr/include/x86_64-linux-gnu/bits/mathinline.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/time_duration.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/operators.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/time_defs.hpp \
@@ -722,7 +705,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/adjust_functors.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/wrapping_int.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/date_generators.hpp \
- /usr/include/c++/5/sstream /usr/include/c++/5/bits/sstream.tcc \
+ /usr/include/c++/7/sstream /usr/include/c++/7/bits/sstream.tcc \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/date_clock_device.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/date_iterator.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/time_system_split.hpp \
@@ -738,7 +721,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/chrono/duration.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/chrono/config.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/chrono/detail/static_assert.hpp \
- /usr/include/c++/5/climits \
+ /usr/include/c++/7/climits \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/logical.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/ratio/ratio.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/ratio/config.hpp \
@@ -779,7 +762,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/lock_types.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/lockable_traits.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/chrono/time_point.hpp \
- /usr/include/c++/5/iostream \
+ /usr/include/c++/7/iostream \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/mutex.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/pthread/mutex.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/ignore_unused.hpp \
@@ -1081,7 +1064,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/signals2/detail/variadic_slot_invoker.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/type_traits/function_traits.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/signals2/detail/signal_template.hpp \
- utilstrencodings.h version.h /usr/include/c++/5/typeindex \
+ utilstrencodings.h version.h /usr/include/c++/7/typeindex \
  leveldb/include/leveldb/db.h leveldb/include/leveldb/iterator.h \
  leveldb/include/leveldb/slice.h leveldb/include/leveldb/status.h \
  leveldb/include/leveldb/options.h leveldb/include/leveldb/write_batch.h \
@@ -1099,7 +1082,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/gmp.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/publickey.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/util.hpp \
- /usr/include/c++/5/iomanip /usr/include/c++/5/bits/quoted_string.h \
+ /usr/include/c++/7/iomanip /usr/include/c++/7/bits/quoted_string.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_arch.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_types.h \
@@ -1119,6 +1102,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_bench.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_rand.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_pool.h \
+ /usr/include/c++/7/math.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_fbx.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_ec.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_pp.h \
@@ -1136,14 +1120,15 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/privatekey.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/publickey.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/signature.hpp \
- /usr/include/c++/5/mutex /usr/include/c++/5/chrono \
- /usr/include/c++/5/ratio /usr/include/c++/5/bits/parse_numbers.h \
- evo/evodb.h evo/providertx.h consensus/validation.h \
- primitives/transaction.h amount.h script/script.h crypto/common.h \
- prevector.h base58.h chainparams.h chainparamsbase.h consensus/params.h \
- primitives/block.h protocol.h netaddress.h key.h pubkey.h hash.h \
- support/allocators/secure.h support/lockedpool.h script/script.h \
- script/standard.h script/interpreter.h script/script_error.h \
+ /usr/include/c++/7/mutex /usr/include/c++/7/chrono \
+ /usr/include/c++/7/ratio /usr/include/c++/7/bits/parse_numbers.h \
+ /usr/include/c++/7/bits/std_mutex.h evo/evodb.h evo/providertx.h \
+ consensus/validation.h primitives/transaction.h amount.h script/script.h \
+ crypto/common.h prevector.h base58.h chainparams.h chainparamsbase.h \
+ consensus/params.h primitives/block.h protocol.h netaddress.h key.h \
+ pubkey.h hash.h support/allocators/secure.h support/lockedpool.h \
+ script/script.h script/standard.h script/interpreter.h \
+ script/script_error.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/variant.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/variant/recursive_variant.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/variant/detail/enable_recursive.hpp \
@@ -1163,7 +1148,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  immer/heap/with_data.hpp immer/heap/free_list_node.hpp \
  immer/heap/split_heap.hpp immer/heap/thread_local_free_list_heap.hpp \
  immer/heap/unsafe_free_list_heap.hpp immer/refcount/refcount_policy.hpp \
- immer/refcount/no_refcount_policy.hpp /usr/include/c++/5/thread \
+ immer/refcount/no_refcount_policy.hpp /usr/include/c++/7/thread \
  immer/refcount/unsafe_refcount_policy.hpp \
  immer/transience/no_transience_policy.hpp \
  immer/transience/gc_transience_policy.hpp immer/heap/tags.hpp \
@@ -1174,8 +1159,8 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  immer/map_transient.hpp llmq/quorums_commitment.h consensus/params.h \
  validationinterface.h primitives/transaction.h saltedhasher.h \
  unordered_lru_cache.h bls/bls_worker.h bls/bls.h ctpl.h \
- /usr/include/c++/5/future /usr/include/c++/5/condition_variable \
- /usr/include/c++/5/bits/atomic_futex.h \
+ /usr/include/c++/7/future /usr/include/c++/7/condition_variable \
+ /usr/include/c++/7/bits/atomic_futex.h \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/lockfree/queue.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/lockfree/detail/atomic.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/lockfree/detail/copy_payload.hpp \
@@ -1263,7 +1248,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/lockfree/lockfree_forward.hpp \
  net.h addrdb.h addrman.h random.h crypto/chacha20.h timedata.h \
  limitedmap.h policy/feerate.h saltedhasher.h threadinterrupt.h \
- /usr/include/c++/5/queue /usr/include/c++/5/bits/stl_queue.h \
+ /usr/include/c++/7/queue /usr/include/c++/7/bits/stl_queue.h \
  chainparams.h llmq/quorums_utils.h llmq/quorums_signing_shares.h \
  random.h tinyformat.h masternode/activemasternode.h key.h \
  evo/providertx.h bls/bls_batchverifier.h cxxtimer.hpp init.h \
@@ -1287,7 +1272,7 @@ llmq/libdftz_server_a-quorums_signing.o: llmq/quorums_signing.cpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/integer/static_log2.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash/extensions.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/container_fwd.hpp \
- /usr/include/c++/5/bitset /usr/include/c++/5/complex \
+ /usr/include/c++/7/bitset /usr/include/c++/7/complex \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/repeat_from_to.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/detail/thread_interruption.hpp \
  /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/v2/thread.hpp \
@@ -1400,11 +1385,11 @@ clientversion.h:
 
 config/dftz-config.h:
 
-/usr/include/c++/5/string:
+/usr/include/c++/7/string:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/os_defines.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h:
 
 /usr/include/features.h:
 
@@ -1412,109 +1397,139 @@ config/dftz-config.h:
 
 /usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
+/usr/include/x86_64-linux-gnu/bits/long-double.h:
+
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/cpu_defines.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/cpu_defines.h:
 
-/usr/include/c++/5/bits/stringfwd.h:
+/usr/include/c++/7/bits/stringfwd.h:
 
-/usr/include/c++/5/bits/memoryfwd.h:
+/usr/include/c++/7/bits/memoryfwd.h:
 
-/usr/include/c++/5/bits/char_traits.h:
+/usr/include/c++/7/bits/char_traits.h:
 
-/usr/include/c++/5/bits/stl_algobase.h:
+/usr/include/c++/7/bits/stl_algobase.h:
 
-/usr/include/c++/5/bits/functexcept.h:
+/usr/include/c++/7/bits/functexcept.h:
 
-/usr/include/c++/5/bits/exception_defines.h:
+/usr/include/c++/7/bits/exception_defines.h:
 
-/usr/include/c++/5/bits/cpp_type_traits.h:
+/usr/include/c++/7/bits/cpp_type_traits.h:
 
-/usr/include/c++/5/ext/type_traits.h:
+/usr/include/c++/7/ext/type_traits.h:
 
-/usr/include/c++/5/ext/numeric_traits.h:
+/usr/include/c++/7/ext/numeric_traits.h:
 
-/usr/include/c++/5/bits/stl_pair.h:
+/usr/include/c++/7/bits/stl_pair.h:
 
-/usr/include/c++/5/bits/move.h:
+/usr/include/c++/7/bits/move.h:
 
-/usr/include/c++/5/bits/concept_check.h:
+/usr/include/c++/7/bits/concept_check.h:
 
-/usr/include/c++/5/type_traits:
+/usr/include/c++/7/type_traits:
 
-/usr/include/c++/5/bits/stl_iterator_base_types.h:
+/usr/include/c++/7/bits/stl_iterator_base_types.h:
 
-/usr/include/c++/5/bits/stl_iterator_base_funcs.h:
+/usr/include/c++/7/bits/stl_iterator_base_funcs.h:
 
-/usr/include/c++/5/debug/debug.h:
+/usr/include/c++/7/debug/assertions.h:
 
-/usr/include/c++/5/bits/stl_iterator.h:
+/usr/include/c++/7/bits/stl_iterator.h:
 
-/usr/include/c++/5/bits/ptr_traits.h:
+/usr/include/c++/7/bits/ptr_traits.h:
 
-/usr/include/c++/5/bits/predefined_ops.h:
+/usr/include/c++/7/debug/debug.h:
 
-/usr/include/c++/5/bits/postypes.h:
+/usr/include/c++/7/bits/predefined_ops.h:
 
-/usr/include/c++/5/cwchar:
+/usr/include/c++/7/bits/postypes.h:
+
+/usr/include/c++/7/cwchar:
 
 /usr/include/wchar.h:
 
-/usr/include/stdio.h:
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+/usr/include/x86_64-linux-gnu/bits/floatn.h:
+
+/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
-/usr/include/xlocale.h:
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/FILE.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/wchar2.h:
 
-/usr/include/c++/5/cstdint:
+/usr/include/c++/7/cstdint:
 
-/usr/lib/gcc/x86_64-linux-gnu/5/include/stdint.h:
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
 
 /usr/include/stdint.h:
 
-/usr/include/c++/5/bits/allocator.h:
+/usr/include/x86_64-linux-gnu/bits/types.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/c++allocator.h:
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/include/c++/5/ext/new_allocator.h:
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
 
-/usr/include/c++/5/new:
+/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
 
-/usr/include/c++/5/exception:
+/usr/include/c++/7/bits/allocator.h:
 
-/usr/include/c++/5/bits/atomic_lockfree_defines.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/c++allocator.h:
 
-/usr/include/c++/5/bits/exception_ptr.h:
+/usr/include/c++/7/ext/new_allocator.h:
 
-/usr/include/c++/5/bits/nested_exception.h:
+/usr/include/c++/7/new:
 
-/usr/include/c++/5/bits/localefwd.h:
+/usr/include/c++/7/exception:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/c++locale.h:
+/usr/include/c++/7/bits/exception.h:
 
-/usr/include/c++/5/clocale:
+/usr/include/c++/7/bits/exception_ptr.h:
+
+/usr/include/c++/7/bits/cxxabi_init_exception.h:
+
+/usr/include/c++/7/typeinfo:
+
+/usr/include/c++/7/bits/hash_bytes.h:
+
+/usr/include/c++/7/bits/nested_exception.h:
+
+/usr/include/c++/7/bits/localefwd.h:
+
+/usr/include/x86_64-linux-gnu/c++/7/bits/c++locale.h:
+
+/usr/include/c++/7/clocale:
 
 /usr/include/locale.h:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
-/usr/include/c++/5/iosfwd:
+/usr/include/c++/7/iosfwd:
 
-/usr/include/c++/5/cctype:
+/usr/include/c++/7/cctype:
 
 /usr/include/ctype.h:
-
-/usr/include/x86_64-linux-gnu/bits/types.h:
-
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
 /usr/include/endian.h:
 
@@ -1524,51 +1539,75 @@ config/dftz-config.h:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
 
-/usr/include/c++/5/bits/ostream_insert.h:
+/usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
-/usr/include/c++/5/bits/cxxabi_forced.h:
+/usr/include/c++/7/bits/ostream_insert.h:
 
-/usr/include/c++/5/bits/stl_function.h:
+/usr/include/c++/7/bits/cxxabi_forced.h:
 
-/usr/include/c++/5/backward/binders.h:
+/usr/include/c++/7/bits/stl_function.h:
 
-/usr/include/c++/5/bits/range_access.h:
+/usr/include/c++/7/backward/binders.h:
 
-/usr/include/c++/5/initializer_list:
+/usr/include/c++/7/bits/range_access.h:
 
-/usr/include/c++/5/bits/basic_string.h:
+/usr/include/c++/7/initializer_list:
 
-/usr/include/c++/5/ext/atomicity.h:
+/usr/include/c++/7/bits/basic_string.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/gthr.h:
+/usr/include/c++/7/ext/atomicity.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/gthr-default.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/gthr.h:
+
+/usr/include/x86_64-linux-gnu/c++/7/bits/gthr-default.h:
 
 /usr/include/pthread.h:
 
 /usr/include/sched.h:
 
-/usr/include/time.h:
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
 
 /usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
+
+/usr/include/time.h:
 
 /usr/include/x86_64-linux-gnu/bits/time.h:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
+
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/atomic_word.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/atomic_word.h:
 
-/usr/include/c++/5/ext/alloc_traits.h:
+/usr/include/c++/7/ext/alloc_traits.h:
 
-/usr/include/c++/5/bits/alloc_traits.h:
+/usr/include/c++/7/bits/alloc_traits.h:
 
-/usr/include/c++/5/ext/string_conversions.h:
+/usr/include/c++/7/ext/string_conversions.h:
 
-/usr/include/c++/5/cstdlib:
+/usr/include/c++/7/cstdlib:
 
 /usr/include/stdlib.h:
 
@@ -1582,11 +1621,15 @@ config/dftz-config.h:
 
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
-/usr/include/x86_64-linux-gnu/bits/sigset.h:
+/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/select2.h:
 
 /usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/sysmacros.h:
 
 /usr/include/alloca.h:
 
@@ -1596,11 +1639,15 @@ config/dftz-config.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib.h:
 
-/usr/include/c++/5/cstdio:
+/usr/include/c++/7/bits/std_abs.h:
 
-/usr/include/libio.h:
+/usr/include/c++/7/cstdio:
 
-/usr/include/_G_config.h:
+/usr/include/stdio.h:
+
+/usr/include/x86_64-linux-gnu/bits/libio.h:
+
+/usr/include/x86_64-linux-gnu/bits/_G_config.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
@@ -1610,7 +1657,7 @@ config/dftz-config.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio2.h:
 
-/usr/include/c++/5/cerrno:
+/usr/include/c++/7/cerrno:
 
 /usr/include/errno.h:
 
@@ -1624,23 +1671,21 @@ config/dftz-config.h:
 
 /usr/include/asm-generic/errno-base.h:
 
-/usr/include/c++/5/bits/functional_hash.h:
+/usr/include/c++/7/bits/functional_hash.h:
 
-/usr/include/c++/5/bits/hash_bytes.h:
+/usr/include/c++/7/bits/basic_string.tcc:
 
-/usr/include/c++/5/bits/basic_string.tcc:
+/usr/include/c++/7/vector:
 
-/usr/include/c++/5/vector:
+/usr/include/c++/7/bits/stl_construct.h:
 
-/usr/include/c++/5/bits/stl_construct.h:
+/usr/include/c++/7/bits/stl_uninitialized.h:
 
-/usr/include/c++/5/bits/stl_uninitialized.h:
+/usr/include/c++/7/bits/stl_vector.h:
 
-/usr/include/c++/5/bits/stl_vector.h:
+/usr/include/c++/7/bits/stl_bvector.h:
 
-/usr/include/c++/5/bits/stl_bvector.h:
-
-/usr/include/c++/5/bits/vector.tcc:
+/usr/include/c++/7/bits/vector.tcc:
 
 fs.h:
 
@@ -1656,7 +1701,7 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/compiler/gcc.hpp:
 
-/usr/include/c++/5/cstddef:
+/usr/include/c++/7/cstddef:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/select_stdlib_config.hpp:
 
@@ -1670,7 +1715,9 @@ fs.h:
 
 /usr/include/x86_64-linux-gnu/bits/confname.h:
 
-/usr/include/getopt.h:
+/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
 
 /usr/include/x86_64-linux-gnu/bits/unistd.h:
 
@@ -1760,59 +1807,65 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/noncopyable.hpp:
 
-/usr/include/c++/5/ostream:
+/usr/include/c++/7/ostream:
 
-/usr/include/c++/5/ios:
+/usr/include/c++/7/ios:
 
-/usr/include/c++/5/bits/ios_base.h:
+/usr/include/c++/7/bits/ios_base.h:
 
-/usr/include/c++/5/bits/locale_classes.h:
+/usr/include/c++/7/bits/locale_classes.h:
 
-/usr/include/c++/5/bits/locale_classes.tcc:
+/usr/include/c++/7/bits/locale_classes.tcc:
 
-/usr/include/c++/5/system_error:
+/usr/include/c++/7/system_error:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/error_constants.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/error_constants.h:
 
-/usr/include/c++/5/stdexcept:
+/usr/include/c++/7/stdexcept:
 
-/usr/include/c++/5/streambuf:
+/usr/include/c++/7/streambuf:
 
-/usr/include/c++/5/bits/streambuf.tcc:
+/usr/include/c++/7/bits/streambuf.tcc:
 
-/usr/include/c++/5/bits/basic_ios.h:
+/usr/include/c++/7/bits/basic_ios.h:
 
-/usr/include/c++/5/bits/locale_facets.h:
+/usr/include/c++/7/bits/locale_facets.h:
 
-/usr/include/c++/5/cwctype:
+/usr/include/c++/7/cwctype:
 
 /usr/include/wctype.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/ctype_base.h:
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
-/usr/include/c++/5/bits/streambuf_iterator.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/ctype_base.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/ctype_inline.h:
+/usr/include/c++/7/bits/streambuf_iterator.h:
 
-/usr/include/c++/5/bits/locale_facets.tcc:
+/usr/include/x86_64-linux-gnu/c++/7/bits/ctype_inline.h:
 
-/usr/include/c++/5/bits/basic_ios.tcc:
+/usr/include/c++/7/bits/locale_facets.tcc:
 
-/usr/include/c++/5/bits/ostream.tcc:
+/usr/include/c++/7/bits/basic_ios.tcc:
 
-/usr/include/c++/5/functional:
+/usr/include/c++/7/bits/ostream.tcc:
 
-/usr/include/c++/5/typeinfo:
+/usr/include/c++/7/functional:
 
-/usr/include/c++/5/tuple:
+/usr/include/c++/7/tuple:
 
-/usr/include/c++/5/utility:
+/usr/include/c++/7/utility:
 
-/usr/include/c++/5/bits/stl_relops.h:
+/usr/include/c++/7/bits/stl_relops.h:
 
-/usr/include/c++/5/array:
+/usr/include/c++/7/array:
 
-/usr/include/c++/5/bits/uses_allocator.h:
+/usr/include/c++/7/bits/uses_allocator.h:
+
+/usr/include/c++/7/bits/invoke.h:
+
+/usr/include/c++/7/bits/std_function.h:
+
+/usr/include/c++/7/bits/refwrap.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/cerrno.hpp:
 
@@ -1820,49 +1873,53 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/abi_suffix.hpp:
 
-/usr/include/c++/5/list:
+/usr/include/c++/7/list:
 
-/usr/include/c++/5/bits/stl_list.h:
+/usr/include/c++/7/bits/stl_list.h:
 
-/usr/include/c++/5/bits/list.tcc:
+/usr/include/c++/7/bits/allocated_ptr.h:
 
-/usr/include/c++/5/iterator:
+/usr/include/c++/7/ext/aligned_buffer.h:
 
-/usr/include/c++/5/istream:
+/usr/include/c++/7/bits/list.tcc:
 
-/usr/include/c++/5/bits/istream.tcc:
+/usr/include/c++/7/iterator:
 
-/usr/include/c++/5/bits/stream_iterator.h:
+/usr/include/c++/7/istream:
 
-/usr/include/c++/5/locale:
+/usr/include/c++/7/bits/istream.tcc:
 
-/usr/include/c++/5/bits/locale_facets_nonio.h:
+/usr/include/c++/7/bits/stream_iterator.h:
 
-/usr/include/c++/5/ctime:
+/usr/include/c++/7/locale:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/time_members.h:
+/usr/include/c++/7/bits/locale_facets_nonio.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/messages_members.h:
+/usr/include/c++/7/ctime:
+
+/usr/include/x86_64-linux-gnu/c++/7/bits/time_members.h:
+
+/usr/include/x86_64-linux-gnu/c++/7/bits/messages_members.h:
 
 /usr/include/libintl.h:
 
-/usr/include/c++/5/bits/codecvt.h:
+/usr/include/c++/7/bits/codecvt.h:
 
-/usr/include/c++/5/bits/locale_facets_nonio.tcc:
+/usr/include/c++/7/bits/locale_facets_nonio.tcc:
 
-/usr/include/c++/5/bits/locale_conv.h:
+/usr/include/c++/7/bits/locale_conv.h:
 
-/usr/include/c++/5/bits/stringfwd.h:
+/usr/include/c++/7/bits/stringfwd.h:
 
-/usr/include/c++/5/bits/allocator.h:
+/usr/include/c++/7/bits/allocator.h:
 
-/usr/include/c++/5/bits/codecvt.h:
+/usr/include/c++/7/bits/codecvt.h:
 
-/usr/include/c++/5/bits/unique_ptr.h:
+/usr/include/c++/7/bits/unique_ptr.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/system/system_error.hpp:
 
-/usr/include/c++/5/cassert:
+/usr/include/c++/7/cassert:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/iterator/iterator_facade.hpp:
 
@@ -2242,29 +2299,27 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/no_tr1/memory.hpp:
 
-/usr/include/c++/5/memory:
+/usr/include/c++/7/memory:
 
-/usr/include/c++/5/bits/stl_tempbuf.h:
+/usr/include/c++/7/bits/stl_tempbuf.h:
 
-/usr/include/c++/5/bits/stl_raw_storage_iter.h:
+/usr/include/c++/7/bits/stl_raw_storage_iter.h:
 
-/usr/include/c++/5/ext/concurrence.h:
+/usr/include/c++/7/ext/concurrence.h:
 
-/usr/include/c++/5/bits/unique_ptr.h:
+/usr/include/c++/7/bits/unique_ptr.h:
 
-/usr/include/c++/5/bits/shared_ptr.h:
+/usr/include/c++/7/bits/shared_ptr.h:
 
-/usr/include/c++/5/bits/shared_ptr_base.h:
+/usr/include/c++/7/bits/shared_ptr_base.h:
 
-/usr/include/c++/5/bits/allocated_ptr.h:
+/usr/include/c++/7/bits/shared_ptr_atomic.h:
 
-/usr/include/c++/5/ext/aligned_buffer.h:
+/usr/include/c++/7/bits/atomic_base.h:
 
-/usr/include/c++/5/bits/shared_ptr_atomic.h:
+/usr/include/c++/7/bits/atomic_lockfree_defines.h:
 
-/usr/include/c++/5/bits/atomic_base.h:
-
-/usr/include/c++/5/backward/auto_ptr.h:
+/usr/include/c++/7/backward/auto_ptr.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/checked_delete.hpp:
 
@@ -2292,11 +2347,11 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/core/demangle.hpp:
 
-/usr/include/c++/5/cxxabi.h:
+/usr/include/c++/7/cxxabi.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/cxxabi_tweaks.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/cxxabi_tweaks.h:
 
-/usr/include/c++/5/atomic:
+/usr/include/c++/7/atomic:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/sp_counted_impl.hpp:
 
@@ -2544,159 +2599,17 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/predef/version.h:
 
-/usr/include/c++/5/algorithm:
+/usr/include/c++/7/algorithm:
 
-/usr/include/c++/5/bits/stl_algo.h:
+/usr/include/c++/7/bits/stl_algo.h:
 
-/usr/include/c++/5/bits/algorithmfwd.h:
+/usr/include/c++/7/bits/algorithmfwd.h:
 
-/usr/include/c++/5/bits/stl_heap.h:
+/usr/include/c++/7/bits/stl_heap.h:
 
-/usr/include/c++/5/random:
+/usr/include/c++/7/bits/uniform_int_dist.h:
 
-/usr/include/c++/5/cmath:
-
-/usr/include/math.h:
-
-/usr/include/x86_64-linux-gnu/bits/math-vector.h:
-
-/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
-
-/usr/include/x86_64-linux-gnu/bits/huge_val.h:
-
-/usr/include/x86_64-linux-gnu/bits/huge_valf.h:
-
-/usr/include/x86_64-linux-gnu/bits/huge_vall.h:
-
-/usr/include/x86_64-linux-gnu/bits/inf.h:
-
-/usr/include/x86_64-linux-gnu/bits/nan.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathdef.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathinline.h:
-
-/usr/include/c++/5/limits:
-
-/usr/include/c++/5/bits/random.h:
-
-/usr/include/c++/5/bits/uniform_int_dist.h:
-
-/usr/include/x86_64-linux-gnu/c++/5/bits/opt_random.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/x86intrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/ia32intrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/mmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xmmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/mm_malloc.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/pmmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/ammintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/popcntintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/wmmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/immintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avxintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx2intrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512fintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512erintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512pfintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512cdintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512bwintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512dqintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlbwintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vldqintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmaintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmavlintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmiintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmivlintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/shaintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/lzcntintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/bmiintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/bmi2intrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/fmaintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/f16cintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/rtmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xtestintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/mm3dnow.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/prfchwintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/fma4intrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xopintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/lwpintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/tbmintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/rdseedintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/fxsrintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveoptintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/adxintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/clwbintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/pcommitintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/clflushoptintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xsavesintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/xsavecintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/5/include/mwaitxintrin.h:
-
-/usr/include/c++/5/bits/random.tcc:
-
-/usr/include/c++/5/numeric:
-
-/usr/include/c++/5/bits/stl_numeric.h:
+/usr/include/c++/7/limits:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/smart_ptr/detail/operator_bool.hpp:
 
@@ -2710,11 +2623,15 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/functional/hash/hash_fwd.hpp:
 
-/usr/include/c++/5/cstring:
+/usr/include/c++/7/cstring:
 
 /usr/include/string.h:
 
-/usr/include/x86_64-linux-gnu/bits/string3.h:
+/usr/include/strings.h:
+
+/usr/include/x86_64-linux-gnu/bits/strings_fortified.h:
+
+/usr/include/x86_64-linux-gnu/bits/string_fortified.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/operations.hpp:
 
@@ -2736,15 +2653,15 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/range/const_iterator.hpp:
 
-/usr/include/c++/5/stack:
+/usr/include/c++/7/stack:
 
-/usr/include/c++/5/deque:
+/usr/include/c++/7/deque:
 
-/usr/include/c++/5/bits/stl_deque.h:
+/usr/include/c++/7/bits/stl_deque.h:
 
-/usr/include/c++/5/bits/deque.tcc:
+/usr/include/c++/7/bits/deque.tcc:
 
-/usr/include/c++/5/bits/stl_stack.h:
+/usr/include/c++/7/bits/stl_stack.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/convenience.hpp:
 
@@ -2752,13 +2669,13 @@ fs.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/fstream.hpp:
 
-/usr/include/c++/5/fstream:
+/usr/include/c++/7/fstream:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/basic_file.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/basic_file.h:
 
-/usr/include/x86_64-linux-gnu/c++/5/bits/c++io.h:
+/usr/include/x86_64-linux-gnu/c++/7/bits/c++io.h:
 
-/usr/include/c++/5/bits/fstream.tcc:
+/usr/include/c++/7/bits/fstream.tcc:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/filesystem/detail/utf8_codecvt_facet.hpp:
 
@@ -2774,33 +2691,35 @@ compat/byteswap.h:
 
 /usr/include/byteswap.h:
 
-/usr/include/c++/5/map:
+/usr/include/c++/7/map:
 
-/usr/include/c++/5/bits/stl_tree.h:
+/usr/include/c++/7/bits/stl_tree.h:
 
-/usr/include/c++/5/bits/stl_map.h:
+/usr/include/c++/7/bits/stl_map.h:
 
-/usr/include/c++/5/bits/stl_multimap.h:
+/usr/include/c++/7/bits/stl_multimap.h:
 
-/usr/include/c++/5/set:
+/usr/include/c++/7/set:
 
-/usr/include/c++/5/bits/stl_set.h:
+/usr/include/c++/7/bits/stl_set.h:
 
-/usr/include/c++/5/bits/stl_multiset.h:
+/usr/include/c++/7/bits/stl_multiset.h:
 
-/usr/include/c++/5/unordered_map:
+/usr/include/c++/7/unordered_map:
 
-/usr/include/c++/5/bits/hashtable.h:
+/usr/include/c++/7/bits/hashtable.h:
 
-/usr/include/c++/5/bits/hashtable_policy.h:
+/usr/include/c++/7/bits/hashtable_policy.h:
 
-/usr/include/c++/5/bits/unordered_map.h:
+/usr/include/c++/7/bits/unordered_map.h:
 
-/usr/include/c++/5/unordered_set:
+/usr/include/c++/7/unordered_set:
 
-/usr/include/c++/5/bits/unordered_set.h:
+/usr/include/c++/7/bits/unordered_set.h:
 
 prevector.h:
+
+/usr/include/c++/7/stdlib.h:
 
 compat.h:
 
@@ -2812,7 +2731,9 @@ compat.h:
 
 /usr/include/x86_64-linux-gnu/bits/fcntl-linux.h:
 
-/usr/include/x86_64-linux-gnu/bits/uio.h:
+/usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h:
+
+/usr/include/linux/falloc.h:
 
 /usr/include/x86_64-linux-gnu/bits/stat.h:
 
@@ -2824,9 +2745,9 @@ compat.h:
 
 /usr/include/x86_64-linux-gnu/bits/mman-linux.h:
 
-/usr/include/x86_64-linux-gnu/sys/socket.h:
+/usr/include/x86_64-linux-gnu/bits/mman-shared.h:
 
-/usr/include/x86_64-linux-gnu/sys/uio.h:
+/usr/include/x86_64-linux-gnu/sys/socket.h:
 
 /usr/include/x86_64-linux-gnu/bits/socket.h:
 
@@ -2842,6 +2763,8 @@ compat.h:
 
 /usr/include/asm-generic/sockios.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h:
+
 /usr/include/x86_64-linux-gnu/bits/socket2.h:
 
 /usr/include/net/if.h:
@@ -2856,9 +2779,9 @@ compat.h:
 
 /usr/include/ifaddrs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/syslimits.h:
+/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h:
 
 /usr/include/limits.h:
 
@@ -2872,11 +2795,15 @@ compat.h:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
+/usr/include/x86_64-linux-gnu/bits/uio_lim.h:
+
 /usr/include/netdb.h:
 
 /usr/include/rpc/netdb.h:
 
-/usr/include/x86_64-linux-gnu/bits/siginfo.h:
+/usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/netdb.h:
 
@@ -2933,6 +2860,28 @@ threadsafety.h:
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/limits.hpp:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/config/no_tr1/cmath.hpp:
+
+/usr/include/c++/7/cmath:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
+
+/usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+
+/usr/include/x86_64-linux-gnu/bits/fp-logb.h:
+
+/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathinline.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/time_duration.hpp:
 
@@ -2996,9 +2945,9 @@ threadsafety.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/date_generators.hpp:
 
-/usr/include/c++/5/sstream:
+/usr/include/c++/7/sstream:
 
-/usr/include/c++/5/bits/sstream.tcc:
+/usr/include/c++/7/bits/sstream.tcc:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/date_time/date_clock_device.hpp:
 
@@ -3030,7 +2979,7 @@ threadsafety.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/chrono/detail/static_assert.hpp:
 
-/usr/include/c++/5/climits:
+/usr/include/c++/7/climits:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/mpl/logical.hpp:
 
@@ -3112,7 +3061,7 @@ threadsafety.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/chrono/time_point.hpp:
 
-/usr/include/c++/5/iostream:
+/usr/include/c++/7/iostream:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/thread/mutex.hpp:
 
@@ -3724,7 +3673,7 @@ utilstrencodings.h:
 
 version.h:
 
-/usr/include/c++/5/typeindex:
+/usr/include/c++/7/typeindex:
 
 leveldb/include/leveldb/db.h:
 
@@ -3804,9 +3753,9 @@ utilstrencodings.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/util.hpp:
 
-/usr/include/c++/5/iomanip:
+/usr/include/c++/7/iomanip:
 
-/usr/include/c++/5/bits/quoted_string.h:
+/usr/include/c++/7/bits/quoted_string.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic.h:
 
@@ -3848,6 +3797,8 @@ utilstrencodings.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_pool.h:
 
+/usr/include/c++/7/math.h:
+
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_fbx.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/relic_ec.h:
@@ -3882,13 +3833,15 @@ utilstrencodings.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/chiabls/signature.hpp:
 
-/usr/include/c++/5/mutex:
+/usr/include/c++/7/mutex:
 
-/usr/include/c++/5/chrono:
+/usr/include/c++/7/chrono:
 
-/usr/include/c++/5/ratio:
+/usr/include/c++/7/ratio:
 
-/usr/include/c++/5/bits/parse_numbers.h:
+/usr/include/c++/7/bits/parse_numbers.h:
+
+/usr/include/c++/7/bits/std_mutex.h:
 
 evo/evodb.h:
 
@@ -4004,7 +3957,7 @@ immer/refcount/refcount_policy.hpp:
 
 immer/refcount/no_refcount_policy.hpp:
 
-/usr/include/c++/5/thread:
+/usr/include/c++/7/thread:
 
 immer/refcount/unsafe_refcount_policy.hpp:
 
@@ -4050,11 +4003,11 @@ bls/bls.h:
 
 ctpl.h:
 
-/usr/include/c++/5/future:
+/usr/include/c++/7/future:
 
-/usr/include/c++/5/condition_variable:
+/usr/include/c++/7/condition_variable:
 
-/usr/include/c++/5/bits/atomic_futex.h:
+/usr/include/c++/7/bits/atomic_futex.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/lockfree/queue.hpp:
 
@@ -4246,9 +4199,9 @@ saltedhasher.h:
 
 threadinterrupt.h:
 
-/usr/include/c++/5/queue:
+/usr/include/c++/7/queue:
 
-/usr/include/c++/5/bits/stl_queue.h:
+/usr/include/c++/7/bits/stl_queue.h:
 
 chainparams.h:
 
@@ -4318,9 +4271,9 @@ scheduler.h:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/detail/container_fwd.hpp:
 
-/usr/include/c++/5/bitset:
+/usr/include/c++/7/bitset:
 
-/usr/include/c++/5/complex:
+/usr/include/c++/7/complex:
 
 /home/jcoberly/Documents/BTCDraft/DraftCoinZ/depends/x86_64-pc-linux-gnu/share/../include/boost/preprocessor/repetition/repeat_from_to.hpp:
 

@@ -374,13 +374,16 @@ public:
         checkpointData = (CCheckpointData) {
 		{
 			{100, uint256S("0x0000094bf0346ca1b061409775d638cd6ce063746828c434a06172a5242c554b")},
-			{2000, uint256S("0x0000020f041ade159ba7b3629c4ee604f71f842ceef71168553e837b70404439")}
+			{2000, uint256S("0x0000020f041ade159ba7b3629c4ee604f71f842ceef71168553e837b70404439")},
+			{25000, uint256S("0x000000b619e5ab1c0c3e0691ad870458ca211e91e1b15b9f944f92f9efd552b2")},
+			{50000, uint256S("0x000000a6bd8b46913cd4338a6e00af8b7ca73abeae7a3474aa22b52ddc30d82b")},
+			{100000, uint256S("0x0000008b68e216414f037bcaee94545e0d82e34ae3d5bb3350442550110efefe")}
 		}
         };
 
         chainTxData = ChainTxData{
-            1588350317, // * UNIX timestamp of last known number of transactions (Block 2000)
-            2000,   // * total number of transactions between genesis and that timestamp
+            1604219151, // * UNIX timestamp of last known number of transactions (Block 100000)
+            100000,   // * total number of transactions between genesis and that timestamp
                         //   (the tx=... number in the SetBestChain debug.log lines)
             0.2         // * estimated number of transactions per second after that timestamp
         };
@@ -492,7 +495,7 @@ public:
         // nodes with support for servicebits filtering should be at the top
 //        vSeeds.emplace_back("testnet-seed.dashdot.io", true);
 
-        // Testnet DFTz addresses start with 'y'
+	// Testnet DFTz addresses start with 'y'
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,140);
         // Testnet DFTz script addresses start with '8' or '9'
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,19);

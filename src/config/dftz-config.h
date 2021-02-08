@@ -18,7 +18,7 @@
 #define CLIENT_VERSION_MAJOR 0
 
 /* Minor version */
-#define CLIENT_VERSION_MINOR 15
+#define CLIENT_VERSION_MINOR 17
 
 /* Build revision */
 #define CLIENT_VERSION_REVISION 0
@@ -33,7 +33,7 @@
 #define COPYRIGHT_HOLDERS_SUBSTITUTION "DFTz Core"
 
 /* Copyright year */
-#define COPYRIGHT_YEAR 2020
+#define COPYRIGHT_YEAR 2021
 
 /* Define this symbol to use wrapped CXX ABIs for exception stacktraces */
 #define CRASH_HOOKS_WRAPPED_CXX_ABI 1
@@ -199,11 +199,11 @@
 #define HAVE_FUNC_ATTRIBUTE_VISIBILITY 1
 
 /* Define this symbol if the BSD getentropy system call is available */
-/* #undef HAVE_GETENTROPY */
+#define HAVE_GETENTROPY 1
 
 /* Define this symbol if the BSD getentropy system call is available with
    sys/random.h */
-/* #undef HAVE_GETENTROPY_RAND */
+#define HAVE_GETENTROPY_RAND 1
 
 /* Define to 1 if you have the <inttypes.h> header file. */
 #define HAVE_INTTYPES_H 1

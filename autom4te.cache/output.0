@@ -1072,7 +1072,7 @@ ac_init_version=false
 ac_unrecognized_opts=
 ac_unrecognized_sep=
 # The variables have the same names as the options, with
-# dftzes changed to underlines.
+# dashes changed to underlines.
 cache_file=/dev/null
 exec_prefix=NONE
 no_create=
@@ -1116,7 +1116,7 @@ localedir='${datarootdir}/locale'
 mandir='${datarootdir}/man'
 
 ac_prev=
-ac_dftzdftz=
+ac_dashdash=
 for ac_option
 do
   # If the previous option needs an argument, assign it.
@@ -1134,9 +1134,9 @@ do
 
   # Accept the important Cygnus configure options, so we can diagnose typos.
 
-  case $ac_dftzdftz$ac_option in
+  case $ac_dashdash$ac_option in
   --)
-    ac_dftzdftz=yes ;;
+    ac_dashdash=yes ;;
 
   -bindir | --bindir | --bindi | --bind | --bin | --bi)
     ac_prev=bindir ;;
@@ -4372,7 +4372,7 @@ else
     done
     echo "${am__include} ${am__quote}sub/conftest.Po${am__quote}" > confmf
 
-    # We check with '-c' and '-o' for the sake of the "dftzmstdout"
+    # We check with '-c' and '-o' for the sake of the "dashmstdout"
     # mode.  It turns out that the SunPro C++ compiler does not properly
     # handle '-M -o', and we need to detect this.  Also, some Intel
     # versions had trouble with output in subdirs.
@@ -5320,7 +5320,7 @@ else
     done
     echo "${am__include} ${am__quote}sub/conftest.Po${am__quote}" > confmf
 
-    # We check with '-c' and '-o' for the sake of the "dftzmstdout"
+    # We check with '-c' and '-o' for the sake of the "dashmstdout"
     # mode.  It turns out that the SunPro C++ compiler does not properly
     # handle '-M -o', and we need to detect this.  Also, some Intel
     # versions had trouble with output in subdirs.
@@ -6142,7 +6142,7 @@ else
     done
     echo "${am__include} ${am__quote}sub/conftest.Po${am__quote}" > confmf
 
-    # We check with '-c' and '-o' for the sake of the "dftzmstdout"
+    # We check with '-c' and '-o' for the sake of the "dashmstdout"
     # mode.  It turns out that the SunPro C++ compiler does not properly
     # handle '-M -o', and we need to detect this.  Also, some Intel
     # versions had trouble with output in subdirs.
