@@ -330,7 +330,7 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x00000345c349ebc990afa628ab84f25696a8d56448582434ced2b0fb57d26f18"));
         assert(genesis.hashMerkleRoot == uint256S("0x4b7b2121b24c1371b4c4e9d7f9062b77adc242616eacdac47822f85c6c08dd04"));
 
-        // vSeeds.emplace_back("dnsseed.btcdraft.com", true);
+        vSeeds.emplace_back("dnsseed.btcdraft.com", true);
         // vSeeds.emplace_back("dnsseed.draftcoin.com", true);
 
         // DFTz addresses start with 'D'
